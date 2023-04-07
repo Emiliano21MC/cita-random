@@ -5,7 +5,7 @@
     font-size: 24px;
     text-shadow: 5px 5px 1px var(--shadow--title);
     text-transform: uppercase;
-    padding: 20px;
+    padding: 20px 30px 20px 42px;
     position: absolute;
     top: 10%;
 }
