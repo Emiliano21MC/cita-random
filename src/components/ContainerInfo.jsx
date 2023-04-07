@@ -8,7 +8,7 @@ const ContainerInfo = ({quote, handleNewQuote, handleNewVgImage}) => {
 
   return (
     <section className='containerInfo'>
-        <h1 className='containerInfo__title'>Galletas de la fortuna</h1>
+        <h1 className='containerInfo__title'>Fortune Cookies</h1>
 
         <article className='containerInfo__phrase'>
           <p className='containerInfo__phrase--text'>{quote.quote}</p>
