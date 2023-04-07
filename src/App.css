@@ -1,0 +1,22 @@
+.App {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 10px;
+}
+
+.vg1 {
+  background-image: url("/images/vg1.jpg");
+}
+.vg2 {
+  background-image: url("/images/vg2.jpg");
+}
+.vg3 {
+  background-image: url("/images/vg3.jpg");
+}
+.vg4 {
+  background-image: url("/images/vg4.jpg");
+}

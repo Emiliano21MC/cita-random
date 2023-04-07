@@ -1,0 +1,35 @@
+.containerInfo__title {
+    color: var(--color--title);
+    text-align: center;
+    font-weight: 500;
+    font-size: 24px;
+    text-shadow: 5px 5px 1px var(--shadow--title);
+    text-transform: uppercase;
+    padding: 20px;
+    position: absolute;
+    top: 10%;
+}
+
+.containerInfo__phrase{
+    background-image: url("/public/images/rectangle.png");
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    aspect-ratio: 5;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 400px;
+}
+
+.containerInfo__phrase--text{
+    color: var(--color--text);
+    font-size: 15px;
+    padding: 40px 0px 50px;
+    margin: 0;
+}
+
+
